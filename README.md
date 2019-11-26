@@ -1,9 +1,9 @@
 # Resolviendo la tarea con Jupyter
 
 
-
 Para que ya tengan su ambiente de trabajo preparado, dejo aquí los requerimientos mínimos.
 
+Dado que el repositorio aún no tiene todos los contenidos (ya lo sé, es difícil no procrastinar) y para yo tener una idea de quienes van a participar en el taller. Te pido que completes con tus datos [en este formulario](https://forms.gle/FoUjapWcSmReudHHA)
 
 ## Requerimientos
 
@@ -15,7 +15,19 @@ El requerimiento para realizar este taller es tener un ambiente con python3 y la
  - ipycanvas
  - ipyleaflet
 
-### Instalación
+## Instalación
+
+### Si no tenés ningún conocimiento previo
+
+Lo mejor va a ser que te descargues uno de los instaladores que están en la siguiente [Carpeta con instaladores](https://drive.google.com/drive/folders/1XlqXPgZTtoP9VNmnbPFkTyqrMmZEd-47?usp=sharing). Dependiendo de tu computadora y sistema operativo vas a tener que descargarte distintos archivos.
+
+Si usas:
+
+linux: tenes que descargar el archivo con extensión _.sh_
+windows >= 7 :  tenes que descargar el archivo *x86_64.exe*
+windows xp: tenes que descargar el archivo _x86.exe_
+
+### Si te manejás bien con Conda 
 
 Primero antes que nada, cloná este repositorio. Lo podés hacer descargando el [zip](https://github.com/akielbowicz/pyconar-2019-jupyter-tarea/archive/master.zip) o si tenés instalado _git_ ejecutar en la consola:
 
@@ -62,5 +74,3 @@ Se va a abrir un navegador y ya podemos empezar a probar cosas.
 # Versiones Online
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pyconar-2019-jupyter-tarea.git/master)
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akielbowicz/pyconar-2019-jupyter-tarea/blob/master/notebooks/Indice.ipynb)

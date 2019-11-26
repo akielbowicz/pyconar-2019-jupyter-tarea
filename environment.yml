@@ -1,0 +1,13 @@
+name: jupyter-tarea
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - ipyleaflet
+  - ipycanvas
+  - bqplot
+  - sympy
+  - pip
+  - pip:
+    - ipyfidgets

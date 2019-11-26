@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyterlab
-  - ipyleaflet
-  - ipycanvas
   - bqplot
-  - sympy
+  - git
+  - ipycanvas
+  - ipyleaflet
+  - jupyterlab
+  - nbconvert
   - pip
-  - pip:
-    - ipyfidgets
+  - sympy

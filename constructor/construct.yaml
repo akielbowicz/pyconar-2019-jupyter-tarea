@@ -1,0 +1,24 @@
+name: jupyter-tarea
+version: 0.2
+
+install_in_dependency_order: True
+
+channels:
+  - http://repo.anaconda.com/pkgs/main/
+  - https://conda.anaconda.org/conda-forge
+
+specs:
+  - python
+  - conda
+  - bqplot
+  - git
+  - ipycanvas
+  - ipyleaflet
+  - jupyterlab
+  - nbconvert
+  - pip
+  - sympy
+
+license_file: EULA.txt
+
+ignore_duplicate_files: True

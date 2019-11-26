@@ -61,6 +61,6 @@ Se va a abrir un navegador y ya podemos empezar a probar cosas.
 
 # Versiones Online
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pyconar-2019-jupyter-tarea.git)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akielbowicz/pyconar-2019-jupyter-tarea.git/master)
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akielbowicz/pyconar-2019-jupyter-tarea/blob/master/notebooks/Indice.ipynb)

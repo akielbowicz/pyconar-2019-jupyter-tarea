@@ -24,7 +24,9 @@ Lo mejor va a ser que te descargues uno de los instaladores que están en la sig
 Si usas:
 
 linux: tenes que descargar el archivo con extensión _.sh_
+
 windows >= 7 :  tenes que descargar el archivo *x86_64.exe*
+
 windows xp: tenes que descargar el archivo _x86.exe_
 
 ### Si te manejás bien con Conda 
@@ -65,10 +67,6 @@ Una vez activado hay que abrir Jupyter ejecutando:
 `jupyter lab`
 
 Se va a abrir un navegador y ya podemos empezar a probar cosas.
-
-
-> Para los usuarios de Windows seguramente hay una forma un poco más sencilla ejecutar JupyterLab
-> instalando la versión completa de [Anaconda](https://conda.io/docs/user-guide/install/windows.html).
 
 
 # Versiones Online
